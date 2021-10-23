@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="Consulta de posts en aplicativo web" tests="2" skipped="0" failures="0" errors="0" timestamp="2021-10-23T22:45:51" hostname="DESKTOP-P44GADF" time="6.045">
+<testsuite name="Consulta de posts en aplicativo web" tests="2" skipped="0" failures="0" errors="0" timestamp="2021-10-23T23:25:10" hostname="DESKTOP-P44GADF" time="3.898">
   <properties/>
-  <testcase name="Consultar un post proporcionando el id del mismo" classname="Consulta de posts en aplicativo web" time="5.581"/>
-  <testcase name="Consultar comentarios de un post proporcionando el id del mismo" classname="Consulta de posts en aplicativo web" time="0.464"/>
+  <testcase name="Consultar un post proporcionando el id del mismo" classname="Consulta de posts en aplicativo web" time="3.494"/>
+  <testcase name="Consultar comentarios de un post proporcionando el id del mismo" classname="Consulta de posts en aplicativo web" time="0.404"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
