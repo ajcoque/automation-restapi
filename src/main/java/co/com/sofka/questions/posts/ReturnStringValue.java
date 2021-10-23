@@ -13,7 +13,7 @@ public class ReturnStringValue implements Question<String>{
 
     @Override
     public String answeredBy(Actor actor) {
-        return null;
+        return systemValue;
     }
 
     public static ReturnStringValue systemValue(String systemValue){

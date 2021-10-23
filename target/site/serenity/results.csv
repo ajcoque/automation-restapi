@@ -1,0 +1,3 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Consulta de posts en aplicativo web","Consultar un post proporcionando el id del mismo","SUCCESS","2021-10-23T17:45:51.6296351-05:00[America/Bogota]","0.0","5.3"
+"Consulta de posts en aplicativo web","Consultar comentarios de un post proporcionando el id del mismo","SUCCESS","2021-10-23T17:45:56.9507821-05:00[America/Bogota]","0.0","0.45"
